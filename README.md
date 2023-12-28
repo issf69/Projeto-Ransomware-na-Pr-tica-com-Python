@@ -20,12 +20,8 @@
 <p align="center">   Objetivo 🎯
 
 
+<p align="center">Projeto Ransomware na Prática com Python</p>
 
-
-
-
-
-   <h1 align="center"> Projeto Ransomware na Prática com Python </h1>
 
 <br>
 <p align="center">
