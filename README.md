@@ -17,10 +17,12 @@
    <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/issf69/count.svg"</p>
  
 
-<p align="center">   Objetivo 🎯
+<h1><p align="center">   Objetivo 🎯 </h1>
 
 
-<p align="center">Projeto Ransomware na Prática com Python</p>
+<p align="center">
+ Projeto Ransomware na Prática com Python
+</p>
 
 
 <br>
@@ -34,6 +36,7 @@
 <p align="center">
   <img alt="projeto DevLinks" src="https://assets-fabapp.com/2512121/1739c744e59c4cb33e771c6106f4cec0e47f938c" width="50%">
 </p>
+<br>
 
 # 🚀 Sistemas
 
