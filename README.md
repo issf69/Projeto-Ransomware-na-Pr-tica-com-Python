@@ -13,7 +13,9 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/issf69/count.svg"</p>
  
 
-<h1><p align="center">   Objetivo 🎯 </h1>
+<h1 align="center">   Objetivo 🎯 </h1>
+
+<br>
  
 <p align="center">
  Projeto Ransomware na Prática com Python
