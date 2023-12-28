@@ -30,7 +30,8 @@
   <a href="#-tecnologias">Sistemas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Créditos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Documentação</a>
+ <a href="#-layout">Documentaçãos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">🔍Referências</a>
 </p>
 
 <p align="center">
@@ -60,9 +61,6 @@ Projeto Ransomware na Prática com Python
 ## 🕹️Documentação
 - [Documentação Python](https://docs.python.org/pt-br/3/library/crypto.html)
 - [Documentação Hackers, Crackers e o Direito Penal](https://www.jusbrasil.com.br/artigos/hackers-crackers-e-o-direito-penal/407334629)
-
-
----
 
 
 
